@@ -1,4 +1,4 @@
-# astro
+# ASTRO
 Validate your sanity :P
 
 # Usage
